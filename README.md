@@ -33,18 +33,6 @@ I focus on React, Next.js, TypeScript, performance optimization, and maintainabl
 - Reusable component-driven frontend architecture
 - High-performance UI for data-heavy applications
 
-# 📌 Featured Projects:
-- **nextjs** — modern frontend project with TypeScript
-- **project-web** — web application structure and implementation
-- **crud-notes** — CRUD-based application flow
-- **fake-backend** — mock backend for frontend integration
-- **todos** — lightweight productivity app
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vancevo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vancevo&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vancevo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vancevo&icon=0&color=0)](https://visitcount.itsvg.in)
 
