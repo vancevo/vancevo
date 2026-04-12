@@ -31,11 +31,19 @@ I focus on React, Next.js, TypeScript, performance optimization, and maintainabl
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+# 🤖 AI Skills & Tools:
+- Prompt Engineering for coding, debugging, and workflow optimization
+- AI-assisted development with Cursor, Codex, Antigravity, and OpenClaw
+- Using AI to accelerate delivery, improve code quality, and streamline documentation
+- Strong interest in integrating AI into real-world engineering workflows
+
 # 🚀 What I Build:
 - Scalable business systems
 - ERP / HRM / dashboard interfaces
 - Reusable component-driven frontend architecture
 - High-performance UI for data-heavy applications
+- AI-assisted development workflows for faster and smarter engineering
+
 
 ## 📈 Activity Graph
 [![Vance's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vancevo&theme=tokyo-night)](https://github.com/vancevo)
