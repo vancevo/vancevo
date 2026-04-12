@@ -7,7 +7,7 @@ I focus on React, Next.js, TypeScript, performance optimization, and maintainabl
 - 💬 Ask me about React, Next.js, TypeScript, dashboards, and UI performance
 - ⚡ I enjoy turning complex business workflows into clean, reusable interfaces
 
-## ⌨️ Typing Intro
+## ⌨️ Role
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Scalable+UI+for+real-world+systems)](https://git.io/typing-svg)
 
 
