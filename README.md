@@ -33,6 +33,15 @@ I focus on React, Next.js, TypeScript, performance optimization, and maintainabl
 - Reusable component-driven frontend architecture
 - High-performance UI for data-heavy applications
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/vancevo/vancevo/blob/output/github-contribution-grid-snake.svg)
+
+## 📈 Activity Graph
+[![Vance's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vancevo&theme=tokyo-night)](https://github.com/vancevo)
+
+## ⌨️ Typing Intro
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Scalable+UI+for+real-world+systems)](https://git.io/typing-svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=vancevo&icon=0&color=0)](https://visitcount.itsvg.in)
 
