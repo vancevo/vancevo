@@ -12,7 +12,7 @@ I focus on React, Next.js, TypeScript, performance optimization, and maintainabl
 
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vancevo)
+[![GitHub](https://img.shields.io/badge/GitHub-91A3B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vancevo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinhvo27798)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F1D65E?style=for-the-badge&logo=vercel&logoColor=white)](https://vance-vo-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinhvp277@gmail.com)
