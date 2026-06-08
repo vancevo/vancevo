@@ -44,10 +44,6 @@ I focus on React, Next.js, TypeScript, performance optimization, and maintainabl
 - High-performance UI for data-heavy applications
 - AI-assisted development workflows for faster and smarter engineering
 
-
-## 📈 Activity Graph
-[![Vance's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vancevo&theme=tokyo-night)](https://github.com/vancevo)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vancevo&icon=0&color=0)](https://visitcount.itsvg.in)
 
